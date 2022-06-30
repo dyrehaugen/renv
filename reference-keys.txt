@@ -5,6 +5,7 @@ global-suicide
 resilience
 de-complexification
 anthropocene
+human-self-awareness
 material-footprint
 mfa
 eu28-footprint
@@ -50,6 +51,7 @@ sewage
 overflows
 genetic-pollution
 species
+birds
 polar-bear
 pandemics
 loss-of-habitat-as-a-driver
