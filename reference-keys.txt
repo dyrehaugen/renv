@@ -50,6 +50,7 @@ pesticides
 sewage
 overflows
 genetic-pollution
+light-pollution
 species
 birds
 polar-bear
