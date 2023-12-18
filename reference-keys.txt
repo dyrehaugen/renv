@@ -8,6 +8,7 @@ global-suicide
 ecological-crises-and-state-breakdown
 resilience
 de-complexification
+the-human-niche
 anthropocene
 human-self-awareness
 material-footprint
